@@ -1,0 +1,17 @@
+{
+  "name": "collage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/test.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.12"
+  }
+}
+
